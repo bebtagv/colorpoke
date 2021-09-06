@@ -3,6 +3,24 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
+	  {
+         "title": "Teen Titans Go Coloring",
+         "description": "NEW Teen Titans Go Coloring",
+         "thumb": "https://play-lh.googleusercontent.com/oUur-7iG3uOyDwiG7wbBXMoaFsZvrBqOINPBuCtK0CKme6B5x8L98OUOj_Y8PyIC9_h0=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringtitan.goheroteenage"
+      },
+	  {
+         "title": "Luca Alberto Coloring",
+         "description": "NEW Luca Alberto Coloring",
+         "thumb": "https://play-lh.googleusercontent.com/g7Yjh7aT8x_tHZjeA425gy2v66Q1fvudMrYdAkpLgOS4fdS09XeKZpJ_MZsVyY3qZQ=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.lucacoloring.cartoondrawing"
+      },
+	  {
+         "title": "Blippi Coloring",
+         "description": "NEW Blippi Coloring",
+         "thumb": "https://play-lh.googleusercontent.com/oD4EJWDtEV1mtTT3YNlu1QO7acVclADyvs42Xk5JlR-_RKp3BtUOvlUrUpcc8hCmPXk=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.blippiscoloring.tractortruckgame"
+      }
       
    ]
 }
